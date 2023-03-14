@@ -19,7 +19,7 @@ namespace primerTarea
             Console.WriteLine($"{myString}.\n" +
                 $"El numero de mi entero es {myInteger}");
             Console.WriteLine($"La fecha de hoy es: " + 
-                myDateTime.ToString("dd/MM/yy, T"));
+                myDateTime.ToString("dd/MM/yy") + " y son las " + myDateTime.ToString(" hh:mm tt"));
 
             // Confirmo que Hice la tarea
             Console.WriteLine("\t------------------------------------------");
