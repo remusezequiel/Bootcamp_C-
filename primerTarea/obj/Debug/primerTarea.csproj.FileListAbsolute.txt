@@ -1,0 +1,7 @@
+C:\Users\Exactas\source\repos\primerTarea\primerTarea\bin\Debug\primerTarea.exe.config
+C:\Users\Exactas\source\repos\primerTarea\primerTarea\bin\Debug\primerTarea.exe
+C:\Users\Exactas\source\repos\primerTarea\primerTarea\bin\Debug\primerTarea.pdb
+C:\Users\Exactas\source\repos\primerTarea\primerTarea\obj\Debug\primerTarea.csproj.AssemblyReference.cache
+C:\Users\Exactas\source\repos\primerTarea\primerTarea\obj\Debug\primerTarea.csproj.CoreCompileInputs.cache
+C:\Users\Exactas\source\repos\primerTarea\primerTarea\obj\Debug\primerTarea.exe
+C:\Users\Exactas\source\repos\primerTarea\primerTarea\obj\Debug\primerTarea.pdb
