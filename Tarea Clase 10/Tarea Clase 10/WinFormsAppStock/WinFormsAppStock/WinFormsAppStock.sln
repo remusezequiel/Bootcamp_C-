@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppStock", "WinFormsAppStock\WinFormsAppStock.csproj", "{644EF435-1593-4D2C-8690-4647643E0366}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codigo Comun", "Codigo Comun\Codigo Comun.csproj", "{4CC2C845-A2E9-4E56-B641-762E3A61DE2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{37AFE8C3-E50E-4CAC-BCB1-87A97272EAEB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644EF435-1593-4D2C-8690-4647643E0366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644EF435-1593-4D2C-8690-4647643E0366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644EF435-1593-4D2C-8690-4647643E0366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644EF435-1593-4D2C-8690-4647643E0366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC2C845-A2E9-4E56-B641-762E3A61DE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC2C845-A2E9-4E56-B641-762E3A61DE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC2C845-A2E9-4E56-B641-762E3A61DE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC2C845-A2E9-4E56-B641-762E3A61DE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4277CC95-BD3F-4B54-9814-75FEBD8A6651}
+	EndGlobalSection
+EndGlobal

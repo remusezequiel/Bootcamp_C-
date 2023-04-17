@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using CodigoComun.Entities;
+@model Deposito;
+@{
+}
+<div class="container">
+    <h1 class="display-1 text-dark"> Soy el Index del Depositos </h1>
+    <br/><br/>
+    <div class="row">
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <div class="card-header">
+                    @Model.Nombre
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Dirección: @Model.Direccion</li>
+                    <li class="list-group-item">Capacidad: @Model.Capacidad</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
