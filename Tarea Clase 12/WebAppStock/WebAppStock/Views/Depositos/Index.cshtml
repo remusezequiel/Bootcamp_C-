@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using CodigoComun.Entities;
+@model IEnumerable<Deposito>;
+@{
+}
+<div class="container">
+    <h1 class="display-1 text-dark">
+        Index <small class="text-white bg-secondary bg-opacity-35">Depositos</small> 
+    </h1>
+    <br/><br/>
+  
+    <table class="table table-striped">
+        <thead class="text-white text-center">
+        <tr>
+            <th class="bg-dark" scope="col">Id</th>
+            <th class="bg-secondary" scope="col">Nombre</th>
+            <th class="bg-dark" scope="col">Dirección</th>
+            <th class="bg-secondary" scope="col">Capacidad</th>
+        </tr>
+        </thead>
+        @foreach (var i in Model)
+        {
+            <tbody class="text-center">
+            <tr>
+                <th class="bg-light p-2 text-dark bg-opacity-75" scope="row">@i.Id</th>
+                <td class="bg-secondary p-2 text-white bg-opacity-50">@i.Nombre</td>
+                <td class="bg-light p-2 text-dark bg-opacity-50">@i.Direccion</td>
+                <td class="bg-secondary p-2 text-white bg-opacity-50">@i.Capacidad</td>
+            </tr>
+            </tbody>
+        }
+    </table>
+</div>
