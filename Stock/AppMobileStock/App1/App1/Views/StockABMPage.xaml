@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.StockABMPage">
+    <ScrollView>
+        <Grid VerticalOptions="FillAndExpand"
+              BackgroundColor="#005245"
+              Margin="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+
+            </Grid.ColumnDefinitions>
+            <!--Titulo-->
+            <Label Grid.Column="1"                   
+                   Grid.Row="0"
+                   Text="Stock ABM"                       
+                   FontSize="50"
+                   TextColor="white"                   
+                   Margin="50"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+
+
+
+            <!--Ingrese: Picker IdArticulo
+
+            <Picker Title="Articulo"
+                        TextColor="Red"
+                        x:Name="IdArticuloPicker"
+                        ItemDisplayBinding="{Binding Codigo}"
+                        SelectedIndexChanged="IdArticuloPicker_SelectedIndexChanged"/>
+            -->
+
+
+
+
+
+
+            <!--Ingrese: Articulo-->
+            <Label Grid.Column="1"
+                   Grid.Row="1"
+                Text="Ingrese: Articulo"
+                TextColor="white"   
+                FontSize="16"
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtArticulo"
+                    Grid.Column="1"
+                    Grid.Row="1"
+                    TextColor="white"                    
+                    PlaceholderColor="white"
+                    Margin="15"                    
+                Placeholder="Escriba Aqui"
+                   />
+
+            <!--Ingrese: Deposito-->
+            <Label Grid.Column="1"
+                    Grid.Row="2"
+                    Text="Ingrese: Deposito"
+                   TextColor="white"
+                    FontSize="16"
+                    HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtDeposito" 
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    Margin="15"
+                    TextColor="white"                    
+                    PlaceholderColor="white"
+                    Placeholder="Escriba Aqui"
+                   />
+            <!--Ingrese: Cantidad-->
+            <Label Grid.Column="1"
+                   Grid.Row="3"
+                   Text="Ingrese: Cantidad"
+                   FontSize="16"
+                   TextColor="white"
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtCantidad" 
+                    Grid.Column="1"
+                    Grid.Row="3"
+                    Margin="15"
+                    TextColor="white"                    
+                    Placeholder="Escriba Aqui"
+                    PlaceholderColor="White"
+                    />
+
+            <Button Grid.Column="1"
+                    Grid.Row="4"
+                    Text="Agregar Stock" 
+                    TextColor="#005245"
+                    BackgroundColor="#96e5e2"
+                    />
+            
+        </Grid>
+    </ScrollView>
+</ContentPage>

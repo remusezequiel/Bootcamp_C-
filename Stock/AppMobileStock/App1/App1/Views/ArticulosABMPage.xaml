@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.ArticulosABMPage">
+    <ScrollView>
+        <Grid VerticalOptions="FillAndExpand"
+              BackgroundColor="#223843"
+              Margin="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+
+            </Grid.ColumnDefinitions>
+            <!--Titulo-->
+            <Label Grid.Column="1"                   
+                   Grid.Row="0"
+                   Text="Articulos ABM"
+                   FontFamily="Rockwell Bold"    
+                   FontSize="50"                  
+                   Margin="50"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <!--Ingrese: Nombre-->
+            <Label Grid.Column="1"
+                   Grid.Row="1"
+                Text="Ingrese: Nombre"      
+                FontSize="16"
+                   Margin="5,0"                   
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtNombre"
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    Text="{Binding ArticuloDTO.Nombre}"                    
+                    Margin="30,5"                   
+                    Placeholder="Ingrese: Nombre"
+                   />
+
+            <!--Ingrese: Marca-->
+            <Label Grid.Column="1"
+                    Grid.Row="3"
+                   Margin="5,0"
+                    Text="Ingrese: Marca"                    
+                    FontSize="16"
+                    HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtMarca" 
+                    Grid.Column="1"
+                    Grid.Row="4"
+                    Margin="30,5"
+                    Text="{Binding ArticuloDTO.Marca}"                    
+                    Placeholder="Escriba Aqui"
+                   />
+            
+            <!--Ingrese: MinimoStock-->
+            <Label Grid.Column="1"
+                   Grid.Row="5"
+                   Margin="5,0"
+                   Text="Ingrese: Minimo Stock"
+                   FontSize="16"                   
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtMinimoStock" 
+                    Grid.Column="1"
+                    Grid.Row="6"
+                    Margin="30,5"
+                    Text="{Binding ArticuloDTO.MinimoStock}"
+                    Placeholder="Escriba Aqui"
+                    />
+            
+            <!--Ingrese: Proveedor-->
+            <Label Grid.Column="1"
+                   Grid.Row="7"
+                   Margin="5,0"
+                   Text="Ingrese: Proveedor"
+                   FontSize="16"
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtProveedor" 
+                    Grid.Column="1"
+                    Grid.Row="8"
+                    Margin="30,5"
+                    Text="{Binding ArticuloDTO.Proveedor}"             
+                    Placeholder="Escriba Aqui"/>
+
+            <!--Ingrese: Precio-->
+            <Label Grid.Column="1"
+                   Grid.Row="9"
+                   Margin="5,0"
+                   Text="Ingrese: Precio"
+                   FontSize="16"
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtPrecio" 
+                    Grid.Column="1"
+                    Grid.Row="10"
+                    Margin="30,5"
+                    Text="{Binding ArticuloDTO.Precio}"                    
+                    Placeholder="Escriba Aqui" />
+
+            <!--Ingrese: Codigo-->
+            <Label Grid.Column="1"
+                   Grid.Row="11"
+                   Text="Ingrese: Codigo"
+                   FontSize="16"
+                   Margin="5,0"
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtCodigo" 
+                    Grid.Column="1"
+                    Grid.Row="12"
+                    Margin="30,5"
+                   
+                    Text="{Binding ArticuloDTO.Codigo}"                                       
+                    Placeholder="Escriba Aqui"/>
+
+            
+            <Button Grid.Column="1"
+                    Grid.Row="13"
+                    Text="Agregar Articulo" 
+                    Command="{Binding Guardar}"/>
+        </Grid>
+    </ScrollView>
+</ContentPage>

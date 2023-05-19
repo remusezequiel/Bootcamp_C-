@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.DepositosPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#223843">
+            
+
+            
+            <!--Titulo-->
+            <Label Text="Opciones del Deposito"               
+                FontSize="50"
+                Margin="0,40,0,40"
+                HorizontalOptions="CenterAndExpand" />
+
+            <!-- Rosquita loca de carga -->    
+            <ActivityIndicator
+                IsEnabled="{Binding IsBusy}"
+                IsRunning="{Binding IsBusy}"
+                IsVisible="{Binding IsBusy}"
+                Color="#d77a61"/>
+            
+            <!-- Template de la Lista -->
+            <CollectionView
+                x:Name="collectionViewItems"
+                Grid.Row="1"
+                Grid.Column="0"
+                ItemsSource="{Binding Depositos}">
+
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="20" >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="40"/>
+                                <RowDefinition Height="40"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="80" />
+                                <ColumnDefinition Width="200"/>
+                            </Grid.ColumnDefinitions>
+                            <Image
+                                BackgroundColor="White"
+                                Grid.Column="0"
+                                Grid.RowSpan="2"
+                                Aspect="AspectFill"                                
+                                HeightRequest="80"
+                                Source="https://cdn-icons-png.flaticon.com/512/815/815005.png"
+                                WidthRequest="80" />
+                            <Label
+                                Margin="10"
+                                Grid.Column="1"
+                                FontAttributes="Bold"
+                                LineBreakMode="TailTruncation"                                
+                                Text="{Binding Nombre}"
+                                />
+                            <Label
+                                Margin="10"
+                                Grid.Column="1"
+                                Grid.Row="1"
+                                FontAttributes="Italic"
+                                LineBreakMode="TailTruncation"                                
+                                Text="{Binding Direccion}"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <!--Agregar Deposoito-->
+            <Button Text="Agregar Deposoito"                 
+                Command="{Binding NuevoDeposito}"    
+                />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

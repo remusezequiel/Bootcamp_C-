@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.DepositosABMPage">
+    <ContentPage.Content>
+        <Grid VerticalOptions="FillAndExpand"
+              BackgroundColor="#223843"
+              Margin="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+              
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+              
+            </Grid.ColumnDefinitions>
+            <!--Titulo-->
+                <Label Grid.Column="1"                   
+                   Grid.Row="0"
+                   Text="Depositos ABM"
+                   FontFamily="Rockwell Bold"    
+                   FontSize="50"
+                
+                   Margin="50"
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand" />
+
+            <!--Ingrese: Nombre-->
+            <Label Grid.Column="1"
+                   Grid.Row="1"
+                Text="Ingrese: Nombre"
+                   Margin="5,0"
+                FontSize="16"
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtNombre"
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    Text="{Binding DepositoDTO.Nombre}"                                 
+                    PlaceholderColor="white"
+                    Margin="30,5"                    
+                    Placeholder="Escriba Aqui"
+                   />
+
+            <!--Ingrese: Capacidad-->
+            <Label Grid.Column="1"
+                    Grid.Row="3"
+                    Text="Ingrese: Capacidad"                   
+                    FontSize="16"
+                   Margin="5,0"
+                    HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtCapacidad" 
+                    Grid.Column="1"
+                    Grid.Row="4"
+                    Margin="30,5"
+                    Text="{Binding DepositoDTO.Capacidad}"
+                    Placeholder="Escriba Aqui"
+                   />
+            <!--Ingrese: Dirección-->
+            <Label Grid.Column="1"
+                   Grid.Row="5"
+                   Margin="5,0"
+                   Text="Ingrese: Dirección"
+                   FontSize="16"
+                   
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  x:Name="txtDireccion" 
+                    Grid.Column="1"
+                    Grid.Row="6"
+                    Margin="30,5"
+                    Text="{Binding DepositoDTO.Direccion}"                                       
+                    Placeholder="Escriba Aqui"                   
+                    />
+
+            <Button Grid.Column="1"
+                    Grid.Row="7"
+                    Text="Agregar Deposoito" 
+                    Command="{Binding Guardar}"
+                    />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.HomePage">
+    <ScrollView>
+        <Grid VerticalOptions="FillAndExpand"
+              BackgroundColor="#223843"
+              Margin="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+                
+            </Grid.ColumnDefinitions>
+            <!-- Title -->
+                <Label Text="App Stock"
+                   FontFamily="Rockwell Bold"
+               Grid.Column="1"               
+               Grid.Row="0"
+               FontSize="50"
+               Margin="0,40,10,100"
+               FontAttributes="Bold"
+               HorizontalOptions="Center" />
+            
+            <!-- Button Articulos -->
+            <Button Text="Articulos"
+               Grid.Column="1"
+               Grid.Row="1"              
+               Margin="15"
+               Clicked="Button_Articulos" />
+            
+            <!-- Button Depositos -->
+            <Button Text="Depositos"
+               Grid.Column="1"
+               Grid.Row="2"              
+               Margin="15"
+               Clicked="Button_Depositos" />
+            
+            <!-- Button Stock -->
+            <Button Text="Stock"
+               Grid.Column="1"
+               Grid.Row="3"               
+               Margin="15"
+               Clicked="Button_Stock" />
+            
+            <!-- Button Page About -->
+            <Button Text="Page About"
+               Grid.Column="1"
+               Grid.Row="4"               
+               Margin="30"
+               Clicked="Button_About" />
+
+        </Grid>
+    </ScrollView>
+</ContentPage>
