@@ -1,0 +1,271 @@
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.exe
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.deps.json
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.runtimeconfig.json
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.AssemblyReference.cache
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Form1.resources
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosForm.resources
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.GenerateResource.cache
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfoInputs.cache
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfo.cs
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CoreCompileInputs.cache
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CopyComplete
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\refint\WinFormsAppStock.dll
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.genruntimeconfig.cache
+C:\Users\rmore\source\repos\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\ref\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Form1.resources
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\refint\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.exe
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.deps.json
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.runtimeconfig.json
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CopyComplete
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\ref\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksABM.resources
+C:\Users\Hp\OneDrive\Escritorio\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.exe
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.deps.json
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.runtimeconfig.json
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Form1.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksABM.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CopyComplete
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\refint\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\ref\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Form1.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksABM.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\refint\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.exe
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.deps.json
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.runtimeconfig.json
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CopyComplete
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\ref\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.exe
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.deps.json
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.runtimeconfig.json
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Form1.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksABM.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksForm.resources
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CopyComplete
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\refint\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\ref\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.exe
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.deps.json
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.runtimeconfig.json
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\bin\Debug\net6.0-windows\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Form1.resources
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.ArticulosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosABM.resources
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.DepositosForm.resources
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksABM.resources
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.Vistas.StocksForm.resources
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.csproj.CopyComplete
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\refint\WinFormsAppStock.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.pdb
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\WinFormsAppStock.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\WinFormsAppStock\obj\Debug\net6.0-windows\ref\WinFormsAppStock.dll

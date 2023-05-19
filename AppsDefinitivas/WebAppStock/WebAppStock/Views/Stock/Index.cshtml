@@ -1,0 +1,59 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using WebAppStock.ViewModel;
+@using CodigoComun.Entities;
+@model StockViewModel;
+<div class="container">
+    <h1 class="display-1 text-dark">
+        Index <small class="text-white bg-success bg-opacity-35"> Stock </small>
+    </h1>
+        <br/>
+    <div class="row">
+        <div class="card rounded-6" style="width: 90rem;">
+            <div class="card-body">
+                <h5 class="card-title">Stock</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary"><small class="text-white bg-secondary bg-opacity-35 rounded-2">WebbAppStock</small></h6>
+                <p class="card-tex p-0">En esta pagina se encuentran listados todos los <small class="text-white bg-success bg-opacity-35 rounded-2">Stock</small>  con los que estamos trabajando. </p>
+                <p class="card-text p-0">
+                    Si quiere ingresar un nuevo <small class="text-white bg-success bg-opacity-35 rounded-2">Stock</small>  haga clic en el boton crear aqui abajo.
+                    Para quitar o editar los datos de un <small class="text-white bg-success bg-opacity-35 rounded-2">Stock</small>  utilizar los botones en las listas.
+                </p>
+                <a class="btn btn-primary text-light" asp-action="Create">Crear</a>
+            </div>
+        </div>
+    </div>
+    <br>
+    <label>@ViewBag.Mensaje</label>
+    <br />
+    <div class="row">
+        <table class="table table-striped">
+            <thead class="text-white text-center">
+            <tr>
+                <th class="bg-dark" scope="col">Id</th>
+                <th class="bg-success" scope="col">Deposito</th>
+                <th class="bg-dark" scope="col">Articulo</th>
+                <th class="bg-success" scope="col">Codigo Articulo</th>
+            </tr>
+            </thead>
+            @foreach (var i in Model.StockDTOs)
+            {
+                <tbody class="text-center">
+                    <tr>                                                        
+                    <th class="bg-light p-2 text-dark bg-opacity-75" scope="row">@i.Id</th>
+                        <td class="bg-success p-2 text-white bg-opacity-50">@Model.ArticuloName(i.IdArticulo)</td>
+                        <td class="bg-light p-2 text-dark bg-opacity-50">@Model.DepositoName(i.IdDeposito)</td>
+                        <td class="bg-success p-2 text-white bg-opacity-50">@Model.ArticuloCode(i.IdArticulo)</td>
+                        <td>
+                            <a class="btn btn-secondary text-light h-65  p-0" asp-action="Edit" asp-route-id="@i.Id">Editar</a>
+                            <br>
+                            <a class="btn btn-danger text-light h-65  p-0" asp-action="Delete" asp-route-id="@i.Id">Eliminar</a>
+                        </td>
+                    </tr>
+                </tbody>
+            }
+        </table>
+    </div>
+</div>

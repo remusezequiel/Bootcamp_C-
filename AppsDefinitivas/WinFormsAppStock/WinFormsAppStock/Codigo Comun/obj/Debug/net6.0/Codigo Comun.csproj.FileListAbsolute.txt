@@ -1,0 +1,48 @@
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.deps.json
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\refint\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\TP_1_CapaC#\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\ref\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\refint\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.deps.json
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tarea Clase 8\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\ref\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.deps.json
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\refint\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\CapacitacionC#\Tareas\Tarea Clase 10\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\ref\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.deps.json
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\bin\Debug\net6.0\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\refint\Codigo Comun.dll
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\Codigo Comun.pdb
+C:\Users\Hp\OneDrive\Escritorio\AppsDefinitivas\WinFormsAppStock\WinFormsAppStock\Codigo Comun\obj\Debug\net6.0\ref\Codigo Comun.dll

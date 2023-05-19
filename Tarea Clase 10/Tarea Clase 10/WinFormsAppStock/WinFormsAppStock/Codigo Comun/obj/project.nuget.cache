@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xBRAwuwG+/D4EbGkLCUzke3NGorqG7JqMcZSgb29pW7OGJnMGTWRQsxzVZxPpYrJJ3JycjBil0HTbTi7B3Q4iA==",
+  "dgSpecHash": "7JS4+l1CNDnrK2UExhVuEEAoghKQ06EiGeS4Af+T6oCimax+bSkfJUwbYDtLYDCLkftXy3CySkKbmtui1MAy/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Escritorio\\CapacitacionC#\\Tareas\\Tarea Clase 10\\WinFormsAppStock\\WinFormsAppStock\\Codigo Comun\\Codigo Comun.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Escritorio\\Bootcamp_cs\\Tarea Clase 10\\Tarea Clase 10\\WinFormsAppStock\\WinFormsAppStock\\Codigo Comun\\Codigo Comun.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.14\\microsoft.entityframeworkcore.6.0.14.nupkg.sha512",

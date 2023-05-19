@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using WebAppStock.ViewModel;
+@using CodigoComun.Entities;
+@model StockViewModel;
+
+<div class="container">
+    <h1 class="display-1 text-dark">
+        <small class="text-white bg-secondary bg-opacity-35"> Depositos </small> En  <small class="text-white bg-success bg-opacity-35"> Stock </small>
+    </h1>
+    <br />
+    <div class="row">
+        <div class="card rounded-6" style="width: 90rem;">
+            <div class="card-body">
+                <h5 class="card-title">Stock</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary"><small class="text-white bg-secondary bg-opacity-35 rounded-2">WebbAppStock</small></h6>
+                <p class="card-tex p-0">
+                    Lista de depositos con Stock habilitado.
+                </p>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <table class="table table-striped">
+            <thead class="text-white text-center">
+                <tr>
+                    <th class="bg-dark" scope="col">Id</th>
+                    <th class="bg-success" scope="col">Articulo</th>
+                    <th class="bg-dark" scope="col">Deposito</th>
+                    <th class="bg-success" scope="col">Codigo Articulo</th>
+                </tr>
+            </thead>
+            @foreach (var i in Model.StockDTOs)
+            {
+                <tbody class="text-center">
+                    <tr>
+                        <th class="bg-light p-2 text-dark bg-opacity-75" scope="row">@i.Id</th>
+                        <td class="bg-success p-2 text-white bg-opacity-50">@Model.ArticuloName(i.IdArticulo)</td>
+                        <td class="bg-light p-2 text-dark bg-opacity-50">@Model.DepositoName(i.IdDeposito)</td>
+                        <td class="bg-success p-2 text-white bg-opacity-50">@Model.ArticuloCode(i.IdArticulo)</td>                        
+                    </tr>
+                </tbody>
+            }
+        </table>
+    </div>
+</div>

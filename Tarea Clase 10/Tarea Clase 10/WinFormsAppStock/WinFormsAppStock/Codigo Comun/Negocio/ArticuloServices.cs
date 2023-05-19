@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-
+using Codigo_Comun.Modelo.DTO;
 using CodigoComun.Datos;
 using CodigoComun.Datos.Repository;
 using CodigoComun.Modelo;
@@ -69,28 +69,45 @@ namespace CodigoComun.Negocio
         /// <returns>
         ///     mensajes correspondiente a cada validación
         /// </returns>
-        public string AgregarArticulo(Articulo articuloToAdd)
+        public ArticuloDTO AgregarArticulo(ArticuloDTO articulosDTOAAgregar)
         {
-            ArticulosRepository articulosRepository = new ArticulosRepository();
-            ArticuloServices articuloServices = new ArticuloServices();
-            List<Articulo> articulos = articulosRepository.GetAllArticulosById();
-            // Validaciones
-            foreach (Articulo art in articulos) {
-                if (articuloToAdd.Codigo == art.Codigo) {
-                    return "El Codigo del articulo ya existe. Elija otro codigo";    
+            try
+            {
+                ArticulosRepository articulosRepository = new ArticulosRepository();
+                ArticuloServices articuloServices = new ArticuloServices();
+                List<Articulo> articulos = articulosRepository.GetAllArticulosById();
+                // Validaciones
+                foreach (Articulo art in articulos)
+                {
+                    if (articulosDTOAAgregar.Codigo == art.Codigo)
+                    {
+                        articulosDTOAAgregar.Mensaje = "El Codigo del articulo ya existe. Elija otro codigo";
+                        return articulosDTOAAgregar;
+                    }
+                }
+                // Add
+                var articuloToAdd = articulosDTOAAgregar.GetArticulo(articulosDTOAAgregar);
+                if (articulosRepository.AddArticuloDB(articuloToAdd) == 1)
+                {
+                    //se hizo bien
+                    articulosDTOAAgregar.Mensaje = "Articulo Agregado con Exito";
+                    return articulosDTOAAgregar;
+                    
+                }
+                else
+                {
+                    //se hizo mal
+                    articulosDTOAAgregar.HuboError = true;
+                    articulosDTOAAgregar.Mensaje = "No se pudo agregar el Articulo";
+                    return articulosDTOAAgregar;
                 }
             }
-            // Add
-            if (articulosRepository.AddArticuloDB(articuloToAdd) == 1)
-            {
-                //se hizo bien
-                return "Articulo Agregado con Exito";
-            }
-            else
-            {
-                //se hizo mal
-                return "No se pudo agregar el Articulo";
-            }
+            catch (Exception ex){
+                articulosDTOAAgregar.HuboError = true;
+                articulosDTOAAgregar.Mensaje = $"Ocurrio una excepción agregando al articulo {ex.Message}";
+                return articulosDTOAAgregar;
+            }   
+            
         }
 
         /// <summary>

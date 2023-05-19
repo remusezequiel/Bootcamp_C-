@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nJx0pgSNFv29IoNdqgptlHdPh1dc8QxSG7cZ27XvtIU=",
+  "Source": "WebAPIRestStock",
+  "BasePath": "_content/WebAPIRestStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
